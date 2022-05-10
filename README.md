@@ -4,6 +4,12 @@
 
 ## 🚀 Quick start
 
+  **Initial install.**
+
+    ```shell
+    npm install
+    ```
+
   **Start developing.**
 
     ```shell
