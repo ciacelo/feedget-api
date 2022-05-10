@@ -7,7 +7,7 @@ Aplicando conceitos de SOLID no contexto de uma api para registros de feedbacks 
 
 ## 🚀 Quick start
 
-  **Initial install.**
+  **Initial installation.**
 
     ```shell
     npm install
